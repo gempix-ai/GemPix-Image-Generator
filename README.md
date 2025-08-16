@@ -1,8 +1,8 @@
-# Gempix Image Generator
+# GemPix Image Generator
 
-Gempix Image Generator is a free text-to-image generator, powered by Gempix Image with Gempix, that turns text prompts into stunning images.
+[GemPix Image Generator](https://gempix.ai/image-generator) is a free text-to-image generator, powered by GemPix Image with GemPix, that turns text prompts into stunning images.
 
-## How to Create Images with Gempix
+## How to Create Images with GemPix
 
 ### Step 1: Describe your image
 
